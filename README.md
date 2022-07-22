@@ -16,11 +16,11 @@
 
 **SELECTION OF CORE CATEGORIES**
 
-**SELECTIVE CODING - ITERATINO 3**
+**SELECTIVE CODING - ITERATION 3**
 
-**SELECTIVE CODING - ITERATINO 4**
+**SELECTIVE CODING - ITERATION 4**
 
-**SELECTIVE CODING - ITERATINO 5**
+**SELECTIVE CODING - ITERATION 5**
 
 **SORTING**
 
@@ -30,9 +30,10 @@
 Please contact yesica.diaz(AT)upm.es in case of questions.
 
 License and Software Information
-© UNIVERSIDAD POLITÉCNICA DE MADRID (UPM), SPAIN
+© Universidad Politécnica de Madrid (UPM), Spain
+© Universidade de São Paulo (USP), Brazil
 
-UPM publishes this documentation subject to the terms of the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License** with the aim of helping the community with our knowledge which we think can be also useful for other people. You will find a copy of the CC BY-NC-SA license in the root folder of this package. All rights not explicitly granted to you under the CC BY-NC-SA license remain the sole and exclusive property of UPM.
+UPM & USP publishes this documentation subject to the terms of the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License** with the aim of helping the community with our knowledge which we think can be also useful for other people. You will find a copy of the CC BY-NC-SA license in the root folder of this package. All rights not explicitly granted to you under the CC BY-NC-SA license remain the sole and exclusive property of UPM.
 
 ## License
 
