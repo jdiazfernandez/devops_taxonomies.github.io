@@ -12,23 +12,8 @@ OPEN CODING - ITERATION 1
 - [Atlas.ti project - coders R1 & R2](https://github.com/jdiazfernandez/devops_taxonomies.github.io/blob/main/01_OPEN%20CODING%20-%20ITERATION%201/UnifiedDevOps%20OpenCoding%20ITE1%20ICA%20(jd%20%2B%20ia).atlproj9)
 - - [Atlas.ti project - coders R3 & R4](https://github.com/jdiazfernandez/devops_taxonomies.github.io/blob/main/01_OPEN%20CODING%20-%20ITERATION%201/UnifiedDevOps%20OpenCoding%20ITE1%20ICA%20(cr2%20%2B%20jp2).atlproj9)
 
- <! --- 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
---->
 ```
 
-<! ---
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-### Jekyll Themes
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jdiazfernandez/devopstaxonomiesharmonization.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.--->
 
 ## Questions & Comments
 
