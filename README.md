@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Public Repository for the research "Harmonizing DevOps Taxonomies: A Grounded Theory Study"
 
 You can use the [editor on GitHub](https://github.com/jdiazfernandez/devopstaxonomiesharmonization.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
