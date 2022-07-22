@@ -6,13 +6,23 @@
 
 ### Study Conduction - files
 
-```markdown
-OPEN CODING - ITERATION 1
+
+**OPEN CODING - ITERATION 1**
 
 - [Atlas.ti project - coders R1 & R2](https://github.com/jdiazfernandez/devops_taxonomies.github.io/blob/main/01_OPEN%20CODING%20-%20ITERATION%201/UnifiedDevOps%20OpenCoding%20ITE1%20ICA%20(jd%20%2B%20ia).atlproj9)
 - - [Atlas.ti project - coders R3 & R4](https://github.com/jdiazfernandez/devops_taxonomies.github.io/blob/main/01_OPEN%20CODING%20-%20ITERATION%201/UnifiedDevOps%20OpenCoding%20ITE1%20ICA%20(cr2%20%2B%20jp2).atlproj9)
 
-```
+**OPEN CODING - ITERATION 2**
+
+**SELECTION OF CORE CATEGORIES**
+
+**SELECTIVE CODING - ITERATINO 3**
+
+**SELECTIVE CODING - ITERATINO 4**
+
+**SELECTIVE CODING - ITERATINO 5**
+
+**SORTING**
 
 
 ## Questions & Comments
