@@ -20,6 +20,8 @@ Figure 2. Process for using ICA in GT studies. Part 2: Key stages and artifacts.
 
 ### Study Conduction - files
 
+The main outputs of this process, in addition to the theory described in the paper, are the [codebook](https://github.com/jdiazfernandez/devops_taxonomies.github.io/blob/main/CODEBOOK.md) and the [disagreements diary](https://github.com/jdiazfernandez/devops_taxonomies.github.io/blob/main/disagreements%20diary.pdf), which have been refined and improved in the iterations 1 to 5 as follows.
+
 **OPEN CODING - ITERATION 1**
  
 - [Atlas.ti project - coders R1 & R2](https://github.com/jdiazfernandez/devops_taxonomies.github.io/blob/main/01_OPEN%20CODING%20-%20ITERATION%201/UnifiedDevOps%20OpenCoding%20ITE1%20ICA%20(jd%20%2B%20ia).atlproj9)
