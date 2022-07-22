@@ -23,20 +23,31 @@ Figure 2. Process for using ICA in GT studies. Part 2: Key stages and artifacts.
 **OPEN CODING - ITERATION 1**
  
 - [Atlas.ti project - coders R1 & R2](https://github.com/jdiazfernandez/devops_taxonomies.github.io/blob/main/01_OPEN%20CODING%20-%20ITERATION%201/UnifiedDevOps%20OpenCoding%20ITE1%20ICA%20(jd%20%2B%20ia).atlproj9)
+- [Cu-alpah and cu-alpha results R1 & R2](https://github.com/jdiazfernandez/devops_taxonomies.github.io/blob/main/01_OPEN%20CODING%20-%20ITERATION%201/UnifiedDevOps%20OpenCoding%20ITE1%20ICA%20(jd%20%2B%20ia)%20-%20cu%20alpha.pdf)
 - [Atlas.ti project - coders R3 & R4](https://github.com/jdiazfernandez/devops_taxonomies.github.io/blob/main/01_OPEN%20CODING%20-%20ITERATION%201/UnifiedDevOps%20OpenCoding%20ITE1%20ICA%20(cr2%20%2B%20jp2).atlproj9)
+- [Cu-alpha and cu-alpha results R3 & R4](https://github.com/jdiazfernandez/devops_taxonomies.github.io/blob/main/01_OPEN%20CODING%20-%20ITERATION%201/UnifiedDevOps%20OpenCoding%20ITE1%20ICA%20(cr%20%2B%20jp)%20-%20cu%20alpha.pdf)
 
 **OPEN CODING - ITERATION 2**
+- [Atlas.ti project - coders R1-R4](https://github.com/jdiazfernandez/devops_taxonomies.github.io/blob/main/02_OPEN%20CODING%20-%20ITERATION%202/UnifiedDevOps%20OpenCoding%20ITE2%20ICA%20(jd%20%2B%20iq%20%2B%20cr%20%2B%20jp).atlproj9)
+- [Cu-alpha and cu-alpha results](https://github.com/jdiazfernandez/devops_taxonomies.github.io/blob/main/02_OPEN%20CODING%20-%20ITERATION%202/UnifiedDevOps%20OpenCoding%20ITE2%20ICA%20(jd%20%2B%20ia%20%2B%20cr%20%2B%20jp)%20-%20cu%20alpha.pdf)
 
 **SELECTION OF CORE CATEGORIES**
+- [Analysis](https://github.com/jdiazfernandez/devops_taxonomies.github.io/blob/main/03_SELECTION%20OF%20CORE%20CATEGORIES/selection%20of%20core%20categories.docx)
 
 **SELECTIVE CODING - ITERATION 3**
+- [Atlas.ti project - coders R1-R4]()
+- [Cu-alpha and cu-alpha results](https://github.com/jdiazfernandez/devops_taxonomies.github.io/blob/main/04_SELECTIVE%20CODING%20-%20ITERATION%203/UnifiedDevOps%20Selective%20Coding%20ITE3%20ICA%20(jp%20%2B%20jd%20D5%20D6)%20-%20cu%20alpha.pdf)
 
 **SELECTIVE CODING - ITERATION 4**
+- [Atlas.ti project - coders R1-R4](https://github.com/jdiazfernandez/devops_taxonomies.github.io/blob/main/05_SELECTIVE%20CODING%20-%20ITERATION%204/UnifiedDevOps%20Selective%20Coding%20ITE4%20ICA.atlproj9)
+- [Cu-alpha and cu-alpha results](https://github.com/jdiazfernandez/devops_taxonomies.github.io/blob/main/05_SELECTIVE%20CODING%20-%20ITERATION%204/UnifiedDevOps%20Selective%20Coding%20ITE4%20ICA%20(jd%20%2B%20ia%20%2B%20cr%20%2B%20jp)%20-%20cu%20alpha.pdf)
 
 **SELECTIVE CODING - ITERATION 5**
+- [Atlas.ti project - coders R1 & R3](https://github.com/jdiazfernandez/devops_taxonomies.github.io/blob/main/06_SELECTIVE%20CODING%20-%20ITERATION%205/UnifiedDevOps%20Selective%20Coding%20ITE5%20ICA.atlproj9)
+- [Cu-alpha and cu-alpha results](https://github.com/jdiazfernandez/devops_taxonomies.github.io/blob/main/06_SELECTIVE%20CODING%20-%20ITERATION%205/UnifiedDevOps%20Selective%20Coding%20ITE5%20ICA%20(jd%20%2B%20jp)%20-%20cu%20alpha.pdf)
 
 **SORTING**
-
+- [Analysis](https://github.com/jdiazfernandez/devops_taxonomies.github.io/blob/main/07_SORTING/sorting.docx)
 
 ## Questions & Comments
 
