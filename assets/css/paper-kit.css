@@ -6805,7 +6805,7 @@ License - nucleoapp.com/license/
 }
 
 .presentation-title {
-  font-size: 8em;
+  font-size: 7.7em;
   font-weight: 700;
   margin: 0;
   color: #FFFFFF;
@@ -6819,14 +6819,14 @@ License - nucleoapp.com/license/
 }
 
 .presentation-subtitle {
-  font-size: 1.7em;
+  font-size: 2em;
   color: #FFFFFF;
 }
 
 .category-absolute {
   position: absolute;
   text-align: center;
-  top: 100vh;
+  top: 94vh;
   margin-top: -60px;
   padding: 0 15px;
   width: 100%;
