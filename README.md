@@ -1,4 +1,4 @@
-![DOI](https://zenodo.org/badge/516416395.svg)](https://zenodo.org/badge/latestdoi/516416395)
+[![DOI](https://zenodo.org/badge/516416395.svg)](https://zenodo.org/badge/latestdoi/516416395)
 
 ## Public Repository for the research "Harmonizing DevOps Taxonomies: A Grounded Theory Study"
 
