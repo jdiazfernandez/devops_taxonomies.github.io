@@ -1,3 +1,6 @@
+![DOI](https://zenodo.org/badge/516416395.svg)](https://zenodo.org/badge/latestdoi/516416395)
+reStructedText
+
 ## Public Repository for the research "Harmonizing DevOps Taxonomies: A Grounded Theory Study"
 
 **Objective:** This work presents empirical research on the structure of DevOps teams in software-producing organizations. The goal is to better understand the organizational structure and characteristics of teams adopting DevOps by harmonizing the existing knowledge. 
