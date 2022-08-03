@@ -25,7 +25,7 @@
  * http://www.apache.org/licenses/LICENSE-2.0
  */
 
-.bootstrap-switch {
+ .bootstrap-switch {
   display: inline-block;
   direction: ltr;
   cursor: pointer;
@@ -6542,7 +6542,7 @@ License - nucleoapp.com/license/
   color: #fff;
   max-width: 350px;
   margin: 20px 0 70px;
-  min-height: 400px;
+  min-height: 300px;
   padding: 30px;
 }
 
@@ -6933,12 +6933,12 @@ License - nucleoapp.com/license/
 }
 
 .section-dark-blue {
-  background-color: #506367;
+  background-color: #7a7a7a;
   color: #FFFFFF;
 }
 
 .section-dark {
-  background-color: #0b1011;
+  background-color: #0b0b0b;
 }
 
 .section-image,
