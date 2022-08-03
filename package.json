@@ -1,10 +1,4 @@
 {
-  "name": "paper-kit",
-  "description": "Bootstrap 4 Now UI Design",
-  "version": "2.2.0",
-  "homepage": "http://creative-tim.com/product/paper-kit",
-  "author": "Creative Tim",
-  "license": "Creative Tim License <www.creative-tim.com/license>",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^5.0.0",
